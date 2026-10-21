@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+index/
+results/
+mlruns/
+mlflow.db
+api-key.txt
+.DS_Store
